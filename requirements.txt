@@ -13,7 +13,7 @@ pandas
 pathos
 pymatgen
 pyyaml>=5.4.1
-scikit-learn
+scikit-learn==1.2.2
 scikit-optimize
 scikit-learn-extra
 scipy
